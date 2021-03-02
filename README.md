@@ -1,6 +1,6 @@
 ![](/image/bkjaygupta.jpg)
 
-![](/image/jaygupta-linkedin400x400.png)
+## Welcome to Jay Gupta's Data Science Projects Portfolio
 
 First of all thanks for visiting my Data Science projects portfolio page.
 
@@ -8,5 +8,18 @@ I’m passionate about the data science, data analytics, AI and machine learning
 
 Please click at the below links to learn more about my data science projects.
 
-## Welcome to Jay Gupta's Data Science Projects Portfolio
+### Energy Projects Portfolio
 
+
+
+
+### Energy Projects Portfolio
+
+
+
+
+### Energy Projects Portfolio
+
+
+
+### Energy Projects Portfolio
