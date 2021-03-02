@@ -10,7 +10,8 @@ Please click at the below links to learn more about my data science projects.
 
 ### Energy Projects Portfolio
 
-
+- Energy Statistics Analytics for the G-7 group countries for the Crude Oil, Wind Energy, Solar Energy, Tidal Wave & Ocean Energy and Uranium Energy - ![](/EnergyProjects/blob/main/EnergyStatsProject/readme.md){:target="_blank" rel="noopener"}
+- 
 
 
 ### Energy Projects Portfolio
