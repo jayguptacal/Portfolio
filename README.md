@@ -11,18 +11,25 @@ Please click at the below links to learn more about my data science projects.
 ### Energy Projects Portfolio
 
 - [Energy Statistics Analytics for the G-7 group countries for the Crude Oil, Wind Energy, Solar Energy, Tidal Wave & Ocean Energy and Uranium Energy](https://github.com/jayguptacal/EnergyProjects/blob/main/EnergyStatsProject/readme.md){:target="_blank"}
+- More coming soon...
+
+### Retail and Marketing Projects Portfolio
+
+- [Big Mountain Resort Priing](https://github.com/jayguptacal/RetailAndMarketing/blob/main/BigMountainResortPricing/README.md){:target="_blank"}
+- More coming soon...
 - 
+### Health and Pharma Projects Portfolio
 
-- 
+- Coming soon...
 
+### Transportation and Logistics Projects Portfolio
 
-### Energy Projects Portfolio
+- Coming soon...
 
+### Banking and Finance Projects Portfolio
 
+- Coming soon...
 
+### Mini Projects (Case Studies) Portfolio
 
-### Energy Projects Portfolio
-
-
-
-### Energy Projects Portfolio
+- Coming soon...
