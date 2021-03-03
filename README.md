@@ -15,7 +15,7 @@ Please click at the below links to learn more about my data science projects.
 
 ### Retail and Marketing Projects Portfolio
 
-- [Big Mountain Resort Priing](https://github.com/jayguptacal/RetailAndMarketing/blob/main/BigMountainResortPricing/README.md){:target="_blank" rel="noopener"}
+- ![Big Mountain Resort Priing](https://github.com/jayguptacal/RetailAndMarketing/blob/main/BigMountainResortPricing/README.md){:target="_blank" rel="noopener"}
 - More coming soon...
 - 
 ### Health and Pharma Projects Portfolio
