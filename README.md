@@ -8,7 +8,7 @@ First of all thanks for visiting my Data Science projects portfolio page.
 <p>I am <b>pursuing my passion for data insights</b> and looking for a Data Analyst or Data Analytics or Data Scientist role in the Financial, Investments, Ecommerce or Energy field.</p>
 <p>I follow the the Data Science Method (DSM) process to do the projects. And based on the project, I decide what phases will be applicable for the project. Each phase is clearly shown in the below image:</p>
 
-<img src="https://github.com/jayguptacal/portfolio/blob/main/image/MLmethodology.jpg">
+![](/image/MLmethodology.jpg)
 
 Please click at the below links to learn more about my data science projects.
 
