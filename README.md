@@ -9,19 +9,16 @@ I’m passionate about the data science, data analytics, AI and machine learning
 Please click at the below links to learn more about my data science projects.
 
 ### Banking and Finance Projects Portfolio
-*<a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/FinancialFraudDetection/Financial_Frauds_Documentation.ipynb"><b>Financial Frauds Detection with Machine Learning</b></a>
+1. <a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/FinancialFraudDetection/Financial_Frauds_Documentation.ipynb"><b>Financial Frauds Detection with Machine Learning</b></a>
+
 <b>Brief Description about the Financial Frauds Detection with Machine Learning Project</b>
-
-- Package Used: Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
-- Machine Learning Algorithm Used: XGBoost, Random Forest
-- Methodology Used: DSM Process with a separate detailed step-by-step Jupyter Notebook for each phase which can be accessed by clicking at the below links:
-* <a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/FinancialFraudDetection/Financial_Frauds_DataWrangling.ipynb" target="_blank"><b>Problem Identification and Data Wrangling Notebook</b></a>
-
-* <a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/FinancialFraudDetection/Financial_Frauds_Exploratory_Data_Analysis.ipynb" target="_blank"><b>Exploratory Data Analysis Notebook</b></a>
-
-* <a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/FinancialFraudDetection/Financial_Frauds_Preprocessing.ipynb" target="_blank"><b>Pre-Processing and Training Data Development Notebook</b></a>
-
-* <a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/FinancialFraudDetection/Financial_Frauds_Machine_Learning.ipynb" target="_blank"><b>Machine Learning Modeling Notebook</b></a>
+* <b>Package Used:</b> Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
+* <b>Machine Learning Algorithm Used:</b> XGBoost, Random Forest
+* <b>Methodology Used:</b> DSM Process with a separate detailed step-by-step Jupyter Notebook for each phase which can be accessed by clicking at the below links:
+  - <a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/FinancialFraudDetection/Financial_Frauds_DataWrangling.ipynb" target="_blank"><b>Problem Identification and Data Wrangling Notebook</b></a>
+  - <a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/FinancialFraudDetection/Financial_Frauds_Exploratory_Data_Analysis.ipynb" target="_blank"><b>Exploratory Data Analysis Notebook</b></a>
+  - <a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/FinancialFraudDetection/Financial_Frauds_Preprocessing.ipynb" target="_blank"><b>Pre-Processing and Training Data Development Notebook</b></a>
+  - <a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/FinancialFraudDetection/Financial_Frauds_Machine_Learning.ipynb" target="_blank"><b>Machine Learning Modeling Notebook</b></a>
 
 ### Energy Projects Portfolio
 
