@@ -5,7 +5,10 @@
 First of all thanks for visiting my Data Science projects portfolio page.
 
 <p>I’m passionate about the data science, data analytics, AI and machine learning as it gives me an opportunity to find the insights from the information. I have been blessed to be the part of numerous Canadian and global projects in the project management leadership roles in the field of Oil &amp; Gas, Energy, Industrial, Environmental, Financial and E-commerce projects. In my leadership roles, I have been part of numerous engineering and construction project successes in the Canadian market.</p> 
-<p>Currently I am <b>pursuing my passion</b> and looking for a Data Analyst or Data Analytics or Data Scientist role in the Financial, Investments, Ecommerce or Energy field.</p>
+<p>I am <b>pursuing my passion for data insights</b> and looking for a Data Analyst or Data Analytics or Data Scientist role in the Financial, Investments, Ecommerce or Energy field.</p>
+<p>I follow the the Data Science Method (DSM) process to do the projects. And based on the project, I decide what phases will be applicable for the project. Each phase is clearly shown in the below image:</p>
+
+<img src="https://github.com/jayguptacal/portfolio/blob/main/image/MLmethodology.jpg">
 
 Please click at the below links to learn more about my data science projects.
 
@@ -38,7 +41,7 @@ Please click at the below links to learn more about my data science projects.
 1. <b>Big Mountain Resort Pricing Project</b>
 
 <p><b>Brief Description about the Big Mountain Resort Project</b></p>
-* <b>Package Used:</b> Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
+* <b>Package Used:</b> Python, Pandas, Numpy, Matplotlib, Scikit-learn
 * <b>Machine Learning Algorithm Used:</b> Random Forest
 * <b>Methodology Used:</b> DSM Process with a separate detailed step-by-step Jupyter Notebook for each phase which can be accessed by clicking at the below links:
   - <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/BigMountainResortPricing/Notebooks/02_data_wrangling.ipynb" target="_blank"><b>Problem Identification and Data Wrangling Notebook</b></a>
