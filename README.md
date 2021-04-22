@@ -27,11 +27,10 @@ Please click at the below links to learn more about my data science projects.
 **Second Project:** <b>Stock Market Technical Indicator Analysis for SPY and Trading with Technical Signals for Tesla (TSLA Stock ticker symbol)</b>
 
 - [Click here to access the Jupyter Notebook](https://github.com/jayguptacal/BankingAndInvestments/blob/main/StockTradingIndicators/SP500_Technical_Analysis.ipynb)
-
 <p>Here is a full list of activities which are covered in this notebook:</p>
 - Calculate stock trading technical lagging indicators such as **Simple Moving Averages, Exponential Moving Averages (EMA), Bollinger Bands (BB), Parabolic Stop and Reverse (SAR)** for the 'SPY' ticker symbol
 - Calculate stock trading technical leading indicators such as **Average Directional Movement Index (ADX), Commodity Channel Index (CCI), Momentum Average Convergence/Divergence (MACD), Rate of Change (ROC), Relative Strength Indicator (RSI), Stochastic Oscillator (STO) and Williams %R** for the 'SPY' ticker symbol
-- Calculate trading signals for Tesla ('TSLA' ticker symbol) with the recommendation of 'BUY' or 'SELL' or 'Do Nothing' using a variety of technical indicators such as SMA, EMA, BB, SAR, MACD and RSI
+- Calculate **trading signals for Tesla** ('TSLA' ticker symbol) with the recommendation of 'BUY' or 'SELL' or 'Do Nothing' using a variety of technical indicators such as SMA, EMA, BB, SAR, MACD and RSI
 
 
 ## 2. Retail, Ecommerce and Marketing Projects Portfolio
@@ -52,7 +51,7 @@ Please click at the below links to learn more about my data science projects.
   - <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/HouseSalesPricePrediction/5_Machine_Learning_House_Prices.ipynb" target="_blank"><b>Machine Learning Modeling Notebook</b></a>
   -  <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/HouseSalesPricePrediction/6a_FullMLPipeline_ProductionPurpose.ipynb" target="_blank"><b>Full ML Modeling for Production Purpose Notebook</b></a>
 
-**Second Project:** <p><b>Brief Description about the Big Mountain Resort Project</b></p>
+**Second Project:** <b>Brief Description about the Big Mountain Resort Project</b>
 * <b>Package Used:</b> Python, Pandas, Numpy, Matplotlib, Scikit-learn
 * <b>Machine Learning Algorithm Used:</b> Random Forest
 * <b>Methodology Used:</b> DSM Process with a separate detailed step-by-step Jupyter Notebook for each phase which can be accessed by clicking at the below links:
