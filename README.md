@@ -14,12 +14,13 @@ Please click at the below links to learn more about my data science projects.
 
 ## 1. Banking, Finance and Investment Projects Portfolio
 **First Project:** 
-<b>Detecting Financial Fraud Transactions with Machine Learning</b>
+<b>Detecting Fraudulent Financial Transactions with Machine Learning</b>
 * <b>Package Used:</b> Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
 * <b>Machine Learning Algorithm Used:</b> XGBoost, Random Forest
 * <b>Click Here to Access Jupyter Notebooks for step-by-step analysis of each phase!</b>
 
-**Second Project:** <b>Stock Market Technical Indicator Analysis for SPY and Trading with Technical Signals for Tesla (TSLA Stock ticker symbol)</b>
+**Second Project:** 
+<b>Stock Market Analysis for SPY with Python Technical Indicators and Python Technical Analysis for Tesla (TSLA) Stock</b>
 
 - [Click here to access the Jupyter Notebook](https://github.com/jayguptacal/BankingAndInvestments/blob/main/StockTradingIndicators/SP500_Technical_Analysis.ipynb)
 <p>Here is a full list of activities which are covered in this notebook:</p>
