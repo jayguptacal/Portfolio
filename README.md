@@ -13,16 +13,11 @@ First of all thanks for visiting my Data Science projects portfolio page.
 Please click at the below links to learn more about my data science projects.
 
 ## 1. Banking, Finance and Investment Projects Portfolio
-**First Project:** <b>Financial Frauds Detection with Machine Learning</b>
-<p><b>Want to see a quick overview of this project,</b> <a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/FinancialFraudDetection/Financial_Frauds_Documentation.ipynb" target="_blank"><b>click here for Documentation Notebook</b></a></p>
-<p><b>Brief Description about the Financial Frauds Detection with Machine Learning Project</b></p>
+**First Project:** 
+<b>Detecting Financial Fraud Transactions with Machine Learning</b>
 * <b>Package Used:</b> Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
 * <b>Machine Learning Algorithm Used:</b> XGBoost, Random Forest
-* <b>Methodology Used:</b> DSM Process with a separate detailed step-by-step Jupyter Notebook for each phase which can be accessed by clicking at the below links:
-  - <a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/FinancialFraudDetection/Financial_Frauds_DataWrangling.ipynb" target="_blank"><b>Problem Identification and Data Wrangling Notebook</b></a>
-  - <a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/FinancialFraudDetection/Financial_Frauds_Exploratory_Data_Analysis.ipynb" target="_blank"><b>Exploratory Data Analysis Notebook</b></a>
-  - <a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/FinancialFraudDetection/Financial_Frauds_Preprocessing.ipynb" target="_blank"><b>Pre-Processing and Training Data Development Notebook</b></a>
-  - <a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/FinancialFraudDetection/Financial_Frauds_Machine_Learning.ipynb" target="_blank"><b>Machine Learning Modeling Notebook</b></a>
+* <b>Click Here to Access Jupyter Notebooks for step-by-step analysis of each phase!</b>
 
 **Second Project:** <b>Stock Market Technical Indicator Analysis for SPY and Trading with Technical Signals for Tesla (TSLA Stock ticker symbol)</b>
 
@@ -70,3 +65,7 @@ Please click at the below links to learn more about my data science projects.
 * <b>Methodology Used:</b> DSM Process with a separate detailed step-by-step Jupyter Notebook for each phase which can be accessed by clicking at the below links:
   - <a href="https://github.com/jayguptacal/EnergyProjects/blob/main/EnergyStatsProject/Energy_Stats_DataWrangling.ipynb" target="_blank"><b>Problem Identification and Data Wrangling Notebook</b></a>
   - <a href="https://github.com/jayguptacal/EnergyProjects/blob/main/EnergyStatsProject/Energy_Stats_EDA.ipynb" target="_blank"><b>Exploratory Data Analysis Notebook</b></a>
+
+## 4. Health and Pharma Projects Portfolio
+
+**First Project:** <b>Can We Predict if the Body Cell is Malignant or Benign with Machine Learning?</b>
