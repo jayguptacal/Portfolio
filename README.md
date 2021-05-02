@@ -15,7 +15,7 @@ Please click at the below links to learn more about my data science projects.
 ## 1. Banking, Finance and Investment Projects Portfolio
 **First Project:** 
 
-![](/jayguptacal/BankingAndInvestments/blob/main/FinancialFraudDetection/images/bannerfinancialportfolio.jpg)
+[](/images/bannerfinancialportfolio.jpg)
 
 
 Later
