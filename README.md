@@ -14,8 +14,11 @@ Please click at the below links to learn more about my data science projects.
 
 ## 1. Banking, Finance and Investment Projects Portfolio
 **First Project:** 
+
 ![](/jayguptacal/BankingAndInvestments/blob/main/FinancialFraudDetection/images/bannerfinancialportfolio.jpg)
 
+
+Later
 <a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/FinancialFraudDetection/readme.md" target="_blank"><img class="aligncenter size-large wp-image-7724" src="https://github.com/jayguptacal/BankingAndInvestments/blob/main/FinancialFraudDetection/images/bannerfinancialportfolio.jpg" alt="" width="1024" height="255" /></a>
 **Second Project:** 
 <b>Stock Market Analysis for SPY with Python Technical Indicators and Python Technical Analysis for Tesla (TSLA) Stock</b>
