@@ -47,7 +47,8 @@ Please click at the below links to learn more about my data science projects.
   - <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/HouseSalesPricePrediction/5_Machine_Learning_House_Prices.ipynb" target="_blank"><b>Machine Learning Modeling Notebook</b></a>
   -  <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/HouseSalesPricePrediction/6a_FullMLPipeline_ProductionPurpose.ipynb" target="_blank"><b>Full ML Modeling for Production Purpose Notebook</b></a>
 
-**Second Project:** <b>Brief Description about the Big Mountain Resort Project</b>
+**Second Project:** 
+<b>Can We Predict Right Pricing for the Big Mountain Resort Entrance Tickets?</b>
 * <b>Package Used:</b> Python, Pandas, Numpy, Matplotlib, Scikit-learn
 * <b>Machine Learning Algorithm Used:</b> Random Forest
 * <b>Methodology Used:</b> DSM Process with a separate detailed step-by-step Jupyter Notebook for each phase which can be accessed by clicking at the below links:
