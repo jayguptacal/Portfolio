@@ -17,9 +17,6 @@ Please click at the below links to learn more about my data science projects.
 
 <a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/FinancialFraudDetection/readme.md" target="_blank">![](/image/bannerfinancialportfolio.jpg)</a>
 
-
-Later
-<a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/FinancialFraudDetection/readme.md" target="_blank"><img class="aligncenter size-large wp-image-7724" src="https://github.com/jayguptacal/BankingAndInvestments/blob/main/FinancialFraudDetection/images/bannerfinancialportfolio.jpg" alt="" width="1024" height="255" /></a>
 **Second Project:** 
 <b>Stock Market Analysis for SPY with Python Technical Indicators and Python Technical Analysis for Tesla (TSLA) Stock</b>
 
