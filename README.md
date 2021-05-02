@@ -13,7 +13,7 @@ First of all thanks for visiting my Data Science projects portfolio page.
 Please click at the below links to learn more about my data science projects.
 
 ## 1. Banking, Finance and Investment Projects Portfolio
-**First Project:** 
+<span style="font-size=14; color:blue"**First Project:** </span>
 
 <a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/FinancialFraudDetection/readme.md" target="_blank">![](/image/bannerfinancialportfolio.jpg)</a>
 
