@@ -29,7 +29,9 @@ Please click at the below links to learn more about my data science projects.
 
 ## 2. Retail, Ecommerce and Marketing Projects Portfolio
 
-**First Project:** <b>Development of Machine Learning Prediction App from the Proof of Concept (POC) to Production Stage</b>
+**First Project:** 
+
+<b>Development of Real Estate House Prediction Demo App from the Proof of Concept (POC) to Production Deployment Stage</b>
 
 <p>While working for the Start-up companies, the main focus is on analyzing the Proof of Concept (PoC) of an idea, test the idea and launch the app quickly rather than fine-tuning it. Keeping this idea in mind, I have developed a house prediction application using all the steps.</p>
 
