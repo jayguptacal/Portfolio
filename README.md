@@ -13,18 +13,13 @@ First of all thanks for visiting my Data Science projects portfolio page.
 Please click at the below links to learn more about my data science projects.
 
 ## 1. Banking, Finance and Investment Projects Portfolio
-<span style="font-size=20; color:blue">**First Project:** </span>
+<span style="font-size=30; color:blue">**First Project:** </span>
 
 <a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/FinancialFraudDetection/readme.md" target="_blank">![](/image/bannerfinancialportfolio.jpg)</a>
 
-**Second Project:** 
-<b>Stock Market Analysis for SPY with Python Technical Indicators and Python Technical Analysis for Tesla (TSLA) Stock</b>
+<span style="font-size=30; color:blue"> **Second Project:** </span>
 
-- [Click here to access the Jupyter Notebook](https://github.com/jayguptacal/BankingAndInvestments/blob/main/StockTradingIndicators/SP500_Technical_Analysis.ipynb)
-<p>Here is a full list of activities which are covered in this notebook:</p>
-- Calculate stock trading technical lagging indicators such as **Simple Moving Averages, Exponential Moving Averages (EMA), Bollinger Bands (BB), Parabolic Stop and Reverse (SAR)** for the 'SPY' ticker symbol
-- Calculate stock trading technical leading indicators such as **Average Directional Movement Index (ADX), Commodity Channel Index (CCI), Momentum Average Convergence/Divergence (MACD), Rate of Change (ROC), Relative Strength Indicator (RSI), Stochastic Oscillator (STO) and Williams %R** for the 'SPY' ticker symbol
-- Calculate **trading signals for Tesla** ('TSLA' ticker symbol) with the recommendation of 'BUY' or 'SELL' or 'Do Nothing' using a variety of technical indicators such as SMA, EMA, BB, SAR, MACD and RSI
+<a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/StockTradingIndicators/readme.md" target="_blank">![](/images/SPYTradingPortfolio.jpg)</a>
 
 
 ## 2. Retail, Ecommerce and Marketing Projects Portfolio
