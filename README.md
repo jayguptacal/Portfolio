@@ -24,25 +24,12 @@ Please click at the below links to learn more about my data science projects.
 
 ## 2. Retail, Ecommerce and Marketing Projects Portfolio
 
-**First Project:** 
+<span style="font-size=30; color:blue"> **First Project:** </span>
 
-<b>Development of Real Estate House Prediction Demo App from the Proof of Concept (POC) to Production Deployment Stage</b>
+<a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/HouseSalesPricePrediction/readme.md" target="_blank">![](https://github.com/jayguptacal/portfolio/blob/main/image/housePredAppPortfolio.jpg)</a>
 
-<p>While working for the Start-up companies, the main focus is on analyzing the Proof of Concept (PoC) of an idea, test the idea and launch the app quickly rather than fine-tuning it. Keeping this idea in mind, I have developed a house prediction application using all the steps.</p>
+<span style="font-size=30; color:blue"> **Second Project:** </span>
 
-- [Click here to access the summary file](https://github.com/jayguptacal/RetailAndMarketing/blob/main/HouseSalesPricePrediction/readme.md)
-
-* <b>Package Used:</b> Python, Pandas, Numpy, Matplotlib, Scikit-learn
-* <b>Machine Learning Algorithm Used:</b> Random Forest, Lasso Linear Regression and XGBoost
-* <b>Methodology Used:</b> DSM Process with a separate detailed step-by-step Jupyter Notebook for each phase which can be accessed by clicking at the below links:
-  - <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/HouseSalesPricePrediction/1_Problem_Identification_House_Prices.ipynb" target="_blank"><b>Problem Identification Notebook</b></a>
-  - <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/HouseSalesPricePrediction/2_Data_Wrangling_House_Prices.ipynb" target="_blank"><b>Data Wrangling Notebook</b></a>
-  - <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/HouseSalesPricePrediction/3_EDA_House_Prices.ipynb" target="_blank"><b>Exploratory Data Analysis Notebook</b></a>
-  - <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/HouseSalesPricePrediction/4_Preprocessing_TrainingData_HousePrices.ipynb" target="_blank"><b>Pre-Processing and Training Data Development Notebook</b></a>
-  - <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/HouseSalesPricePrediction/5_Machine_Learning_House_Prices.ipynb" target="_blank"><b>Machine Learning Modeling Notebook</b></a>
-  -  <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/HouseSalesPricePrediction/6a_FullMLPipeline_ProductionPurpose.ipynb" target="_blank"><b>Full ML Modeling for Production Purpose Notebook</b></a>
-
-**Second Project:** 
 <b>Can We Predict Right Pricing for the Big Mountain Resort Entrance Tickets?</b>
 * <b>Package Used:</b> Python, Pandas, Numpy, Matplotlib, Scikit-learn
 * <b>Machine Learning Algorithm Used:</b> Random Forest
