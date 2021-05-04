@@ -30,26 +30,16 @@ Please click at the below links to learn more about my data science projects.
 
 <span style="font-size=30; color:blue"> **Second Project:** </span>
 
-<b>Can We Predict Right Pricing for the Big Mountain Resort Entrance Tickets?</b>
-* <b>Package Used:</b> Python, Pandas, Numpy, Matplotlib, Scikit-learn
-* <b>Machine Learning Algorithm Used:</b> Random Forest
-* <b>Methodology Used:</b> DSM Process with a separate detailed step-by-step Jupyter Notebook for each phase which can be accessed by clicking at the below links:
-  - <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/BigMountainResortPricing/Notebooks/02_data_wrangling.ipynb" target="_blank"><b>Problem Identification and Data Wrangling Notebook</b></a>
-  - <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/BigMountainResortPricing/Notebooks/03_exploratory_data_analysis.ipynb" target="_blank"><b>Exploratory Data Analysis Notebook</b></a>
-  - <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/BigMountainResortPricing/Notebooks/04_preprocessing_and_training.ipynb" target="_blank"><b>Pre-Processing and Training Data Development Notebook</b></a>
-  - <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/BigMountainResortPricing/Notebooks/05_modeling.ipynb" target="_blank"><b>Machine Learning Modeling Notebook</b></a>
+<a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/BigMountainResortPricing/README.md" target="_blank">![](https://github.com/jayguptacal/portfolio/blob/main/image/ResortTicketPortfolio.jpg)</a>
 
 ## 3. Energy, Environment and Industrial Projects Portfolio
 
-**First Project:** <b>Energy Statistics Analytics for the G-7 group countries for the Crude Oil, Wind Energy, Solar Energy, Tidal Wave & Ocean Energy and Uranium Energy</b>
+<span style="font-size=30; color:blue"> **First Project:** </span>
 
-<p>Since the focus on the insights, notebooks up to Exploratory Data Analysis (EDA) were done as there was no need for any modeling.</p>
-<p><b>Brief Description about the Energy Statistics Analytics Project</b></p>
-* <b>Package Used:</b> Python, Pandas, Numpy, Matplotlib, Seaborn
-* <b>Methodology Used:</b> DSM Process with a separate detailed step-by-step Jupyter Notebook for each phase which can be accessed by clicking at the below links:
-  - <a href="https://github.com/jayguptacal/EnergyProjects/blob/main/EnergyStatsProject/Energy_Stats_DataWrangling.ipynb" target="_blank"><b>Problem Identification and Data Wrangling Notebook</b></a>
-  - <a href="https://github.com/jayguptacal/EnergyProjects/blob/main/EnergyStatsProject/Energy_Stats_EDA.ipynb" target="_blank"><b>Exploratory Data Analysis Notebook</b></a>
+<a href="https://github.com/jayguptacal/EnergyProjects/blob/main/EnergyStatsProject/readme.md" target="_blank">![](https://github.com/jayguptacal/portfolio/blob/main/image/EnergyStasPortfolio.jpg)</a>
 
 ## 4. Health and Pharma Projects Portfolio
 
-**First Project:** <b>Can We Predict if the Body Cell is Malignant or Benign with Machine Learning?</b>
+<span style="font-size=30; color:blue"> **First Project:** </span>
+
+<a href="https://github.com/jayguptacal/HealthAndPharma/blob/main/README.md" target="_blank">![](https://github.com/jayguptacal/portfolio/blob/main/image/BodyCellPortfolio.jpg)</a>
