@@ -33,18 +33,14 @@ Please click at the below links to learn more about my data science projects.
 <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/BigMountainResortPricing/README.md" target="_blank">![](/image/ResortTicketPortfolio.jpg)</a>
 
 
-xx
-
-<a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/BigMountainResortPricing/README.md" target="_blank">![](https://github.com/jayguptacal/portfolio/blob/main/image/ResortTicketPortfolio.jpg)</a>
-
 ## 3. Energy, Environment and Industrial Projects Portfolio
 
 <span style="font-size=30; color:blue"> **First Project:** </span>
 
-<a href="https://github.com/jayguptacal/EnergyProjects/blob/main/EnergyStatsProject/readme.md" target="_blank">![](https://github.com/jayguptacal/portfolio/blob/main/image/EnergyStasPortfolio.jpg)</a>
+<a href="https://github.com/jayguptacal/EnergyProjects/blob/main/EnergyStatsProject/readme.md" target="_blank">![](/image/EnergyStasPortfolio.jpg)</a>
 
 ## 4. Health and Pharma Projects Portfolio
 
 <span style="font-size=30; color:blue"> **First Project:** </span>
 
-<a href="https://github.com/jayguptacal/HealthAndPharma/blob/main/README.md" target="_blank">![](https://github.com/jayguptacal/portfolio/blob/main/image/BodyCellPortfolio.jpg)</a>
+<a href="https://github.com/jayguptacal/HealthAndPharma/blob/main/README.md" target="_blank">![](/image/BodyCellPortfolio.jpg)</a>
