@@ -28,11 +28,12 @@ Please click at the below links to learn more about my data science projects.
 
 <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/HouseSalesPricePrediction/readme.md" target="_blank">![](/image/housePredAppPortfolio.jpg)</a>
 
-xx
-
-<a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/HouseSalesPricePrediction/readme.md" target="_blank">![](https://github.com/jayguptacal/portfolio/blob/main/image/housePredAppPortfolio.jpg)</a>
-
 <span style="font-size=30; color:blue"> **Second Project:** </span>
+
+<a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/BigMountainResortPricing/README.md" target="_blank">![](/image/ResortTicketPortfolio.jpg)</a>
+
+
+xx
 
 <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/BigMountainResortPricing/README.md" target="_blank">![](https://github.com/jayguptacal/portfolio/blob/main/image/ResortTicketPortfolio.jpg)</a>
 
