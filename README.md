@@ -43,4 +43,4 @@ Please click at the below links to learn more about my data science projects.
 
 <span style="font-size=30; color:blue"> **First Project:** </span>
 
-<a href="https://github.com/jayguptacal/HealthAndPharma/blob/main/README.md" target="_blank">![](/image/BodyCellPortfolio.jpg)</a>
+<a href="https://github.com/jayguptacal/HealthAndPharma/blob/main/CancerCellPrediction/readme.md" target="_blank">![](/image/BodyCellPortfolio.jpg)</a>
