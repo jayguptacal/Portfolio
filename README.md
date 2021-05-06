@@ -19,6 +19,9 @@ Please click at the below links to learn more about my data science projects.
 
 <span style="font-size=30; color:blue"> **Second Project:** </span>
 
+<a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/StockTradingIndicators/readme.md" target="_blank">![](/images/SPYTradingPortfolio.jpg)</a>
+
+xx
 <a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/StockTradingIndicators/readme.md" target="_blank">![](https://github.com/jayguptacal/BankingAndInvestments/blob/main/StockTradingIndicators/images/SPYTradingPortfolio.jpg)</a>
 
 
