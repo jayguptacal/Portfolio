@@ -21,6 +21,9 @@ Please click at the below links to learn more about my data science projects.
 
 <a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/StockTradingIndicators/readme.md" target="_blank">![](/image/SPYTradingPortfolio.jpg)</a>
 
+<span style="font-size=30; color:blue"> **Third Project:** </span>
+
+<a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/CreditCardFraudDetection/readme.md" target="_blank">![](/image/CreditCardsFraudsBannerReadme.jpg)</a>
 
 ## 2. Retail, Ecommerce and Marketing Projects Portfolio
 
