@@ -4,9 +4,9 @@
 
 First of all thanks for visiting my Data Science projects portfolio page.
 
-<p>I’m passionate about the data science, data analytics, AI and machine learning as it gives me an opportunity to find the insights from the information. I have been blessed to be the part of numerous Canadian and global projects in the project management leadership roles in the field of Oil &amp; Gas, Energy, Industrial, Environmental, Financial and E-commerce projects. In my leadership roles, I have been part of numerous engineering, design and construction project successes in the Canadian market.</p> 
-<p>I am <b>pursuing my passion for data insights</b> and looking for a Data Analyst or Data Analytics or Data Scientist role in the Financial, Investments, Ecommerce or Energy field.</p>
-<p>I follow the the Data Science Method (DSM) process to do the projects. And based on the project, I decide what phases will be applicable for the project. Each phase is clearly shown in the below image:</p>
+<p>I’m passionate about the data science, data analytics, AI and machine learning as it gives me an opportunity to find the insights from the information. I have been blessed to be part of numerous Canadian and global projects in the project management leadership roles in the field of Oil &amp; Gas, Energy, Industrial, Environmental, Financial and E-commerce projects. </p> 
+
+<p>I follow the the Data Science Method (DSM) process as shown below, to do the data science projects.</p>
 
 ![](/image/MLmethodology.jpg)
 
