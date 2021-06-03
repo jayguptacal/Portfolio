@@ -48,7 +48,7 @@ Please click at the below links to learn more about my data science projects.
 
 <a href="https://github.com/jayguptacal/HealthAndPharma/blob/main/CancerCellPrediction/readme.md" target="_blank">![](/image/BodyCellPortfolio.jpg)</a>
 
-<p>**Skills**: Data Science, Python, Data Wrangling (Numpy, Pandas, SQL), Data Visualization (Matplotlib, Seaborn), Machine Learning, Presentation, Communication, Storytelling, and Leadership</p>
+<p>Skills: Data Science, Python, Data Wrangling (Numpy, Pandas, SQL), Data Visualization (Matplotlib, Seaborn), Machine Learning, Presentation, Communication, Storytelling, and Leadership</p>
 
 <p>- Connect with me on LinkedIn - https://www.linkedin.com/in/jayguptanetwork/</p>
 
