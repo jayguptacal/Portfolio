@@ -2,9 +2,9 @@
 
 ## Welcome to Jay Gupta's Data Science Projects Portfolio
 
-First of all thanks for visiting my Data Science projects portfolio page.
+Thanks for visiting my Data Science projects portfolio page.
 
-<p>I’m passionate about the data science, data analytics, AI and machine learning as it gives me an opportunity to find the insights from the information. I have been blessed to be part of numerous Canadian and global projects in the project management leadership roles in the field of Oil &amp; Gas, Energy, Industrial, Environmental, Financial and E-commerce projects. </p> 
+<p>I’m a data scientist focused on solving problems with the help of machine learning and artificial intelligence in the field of Banking, Investments, Financial, and E-commerce domains. I excel working with multi-disciplinary larger teams as well as a small team in the Start-up environment. I have extensive leadership project management as well as business management experience in the Oil & Gas, Energy, and Environmental sectors.</p>
 
 <p>I follow the the Data Science Method (DSM) process as shown below, to do the data science projects.</p>
 
@@ -47,3 +47,9 @@ Please click at the below links to learn more about my data science projects.
 <span style="font-size=30; color:blue"> **First Project:** </span>
 
 <a href="https://github.com/jayguptacal/HealthAndPharma/blob/main/CancerCellPrediction/readme.md" target="_blank">![](/image/BodyCellPortfolio.jpg)</a>
+
+<p>**Skills**: Data Science, Python, Data Wrangling (Numpy, Pandas, SQL), Data Visualization (Matplotlib, Seaborn), Machine Learning, Presentation, Communication, Storytelling, and Leadership</p>
+
+<p>- Connect with me on LinkedIn - https://www.linkedin.com/in/jayguptanetwork/</p>
+
+#machinelearning, #dataanalytics, #dataanalyst, #datascientist, #artificialintelligence
