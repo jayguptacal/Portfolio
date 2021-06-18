@@ -44,6 +44,6 @@ Please click at the below links to learn more about my data science projects.
 
 <p>Skills: Data Science, Python, Data Wrangling (Numpy, Pandas, SQL), Data Visualization (Matplotlib, Seaborn), Machine Learning, Presentation, Communication, Storytelling, and Leadership</p>
 
-<p>- Connect with me on [LinkedIn](https://www.linkedin.com/in/jayguptanetwork/)</p>
+**Connect with me on [LinkedIn](https://www.linkedin.com/in/jayguptanetwork/)**
 
 #machinelearning, #dataanalytics, #dataanalyst, #datascientist, #artificialintelligence
