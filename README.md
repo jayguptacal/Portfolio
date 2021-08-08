@@ -29,6 +29,9 @@ Please click at the below banners to learn more about my data science projects.
 
 <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/BigMountainResortPricing/README.md" target="_blank">![](/image/ResortTicketPortfolio.jpg)</a>
 
+<span style="font-size=30; color:blue"> **Third Project:** </span>
+
+<a href="https://github.com/jayguptacal/bookcollectionapp/blob/main/README.md" target="_blank">![](/image/banner_bookcatalogproject.jpg)</a>
 
 ## 3. Energy, Environment and Industrial Projects Portfolio
 
