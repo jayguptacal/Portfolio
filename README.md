@@ -33,11 +33,19 @@ Please click at the below banners to learn more about my data science projects.
 
 <a href="https://github.com/jayguptacal/bookcollectionapp/blob/main/README.md" target="_blank">![](/image/banner_bookcatalogproject.jpg)</a>
 
+<span style="font-size=30; color:blue"> **Fourth Project:** </span>
+
+<a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/spotfireanalytics/readme.md" target="_blank">![](/image/Spotfire_Access.jpg)</a>
+
 ## 3. Energy, Environment and Industrial Projects Portfolio
 
 <span style="font-size=30; color:blue"> **First Project:** </span>
 
 <a href="https://github.com/jayguptacal/EnergyProjects/blob/main/EnergyStatsProject/readme.md" target="_blank">![](/image/EnergyStasPortfolio.jpg)</a>
+
+<span style="font-size=30; color:blue"> **Second Project:** </span>
+
+<a href="https://github.com/jayguptacal/EnergyAndEnvironment/edit/main/PredictRockorMine/readme.md" target="_blank">![](/image/knnProjectAccess.jpg)</a>
 
 ## 4. Health and Pharma Projects Portfolio
 
