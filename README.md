@@ -27,13 +27,17 @@ Please click at the below banners to learn more about my data science projects.
 
 <span style="font-size=30; color:blue"> **Second Project:** </span>
 
-<a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/BigMountainResortPricing/README.md" target="_blank">![](/image/ResortTicketPortfolio.jpg)</a>
+<a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/wineFraudPredictwithSVC/readme.md" target="_blank">![](/image/SVMClassificationWineCheck_Access.jpg)</a>
 
 <span style="font-size=30; color:blue"> **Third Project:** </span>
 
 <a href="https://github.com/jayguptacal/bookcollectionapp/blob/main/README.md" target="_blank">![](/image/banner_bookcatalogproject.jpg)</a>
 
 <span style="font-size=30; color:blue"> **Fourth Project:** </span>
+
+<a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/BigMountainResortPricing/README.md" target="_blank">![](/image/ResortTicketPortfolio.jpg)</a>
+
+<span style="font-size=30; color:blue"> **Fifth Project:** </span>
 
 <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/spotfireanalytics/readme.md" target="_blank">![](/image/Spotfire_Access.jpg)</a>
 
