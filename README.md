@@ -45,11 +45,15 @@ Please click at the below banners to learn more about my data science projects.
 
 <span style="font-size=30; color:blue"> **First Project:** </span>
 
-<a href="https://github.com/jayguptacal/EnergyProjects/blob/main/EnergyStatsProject/readme.md" target="_blank">![](/image/EnergyStasPortfolio.jpg)</a>
+<a href="https://github.com/jayguptacal/EnergyAndEnvironment/blob/main/ConcreteSlumpTestSVR/readme.md" target="_blank">![](/image/SVMconcreteSlumpReg_Access.jpg)</a>
 
 <span style="font-size=30; color:blue"> **Second Project:** </span>
 
 <a href="https://github.com/jayguptacal/EnergyAndEnvironment/edit/main/PredictRockorMine/readme.md" target="_blank">![](/image/knnProjectAccess.jpg)</a>
+
+<span style="font-size=30; color:blue"> **Third Project:** </span>
+
+<a href="https://github.com/jayguptacal/EnergyProjects/blob/main/EnergyStatsProject/readme.md" target="_blank">![](/image/EnergyStasPortfolio.jpg)</a>
 
 ## 4. Health and Pharma Projects Portfolio
 
