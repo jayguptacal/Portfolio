@@ -23,6 +23,10 @@ Please click at the below banners to learn more about my data science projects.
 
 <a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/aml_cft_investigation/aml_cft_excelproject.ipynb" target="_blank">![](/image/amlcftbanner_access.jpg)</a>
 
+<span style="font-size=30; color:blue"> **Fifth Project:** </span>
+
+<a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/BankNotesDetection/readme.md" target="_blank">![](/image/Genuine_Fake_BankNotes_access.jpg)</a>
+
 ## 2. Retail, Ecommerce and Marketing Projects Portfolio
 
 <span style="font-size=30; color:blue"> **First Project:** </span>
