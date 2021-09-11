@@ -65,11 +65,11 @@ Please click at the below banners to learn more about my data science projects.
 
 <span style="font-size=30; color:blue"> **Third Project:** </span>
 
-<a href="https://github.com/jayguptacal/EnergyProjects/blob/main/EnergyStatsProject/readme.md" target="_blank">![](/image/EnergyStasPortfolio.jpg)</a>
+<a href="https://github.com/jayguptacal/EnergyAndEnvironment/blob/main/PenguinsClassification/penguins_species_decision_tree.ipynb" target="_blank">![](/image/penguinbanner_access.jpg)</a>
 
 <span style="font-size=30; color:blue"> **Fourth Project:** </span>
 
-<a href="https://github.com/jayguptacal/EnergyAndEnvironment/blob/main/PenguinsClassification/penguins_species_decision_tree.ipynb" target="_blank">![](/image/penguinbanner_access.jpg)</a>
+<a href="https://github.com/jayguptacal/EnergyProjects/blob/main/EnergyStatsProject/readme.md" target="_blank">![](/image/EnergyStasPortfolio.jpg)</a>
 
 <span style="font-size=30; color:blue"> **Fifth Project:** </span>
 
