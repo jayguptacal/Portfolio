@@ -77,6 +77,10 @@ Please click at the below banners to learn more about my data science projects.
 
 <a href="https://github.com/jayguptacal/HealthAndPharma/blob/main/CancerCellPrediction/readme.md" target="_blank">![](/image/BodyCellPortfolio.jpg)</a>
 
+<span style="font-size=30; color:blue"> **Second Project:** </span>
+
+<a href="https://github.com/jayguptacal/HealthAndPharma/blob/main/EdiblePoisonousMushrooms/readme.md" target="_blank">![](/image/Poisonous_Edible_Mushroom_access.jpg)</a>
+
 <p>Skills: Data Science, Python, Data Wrangling (Numpy, Pandas, SQL), Data Visualization (Matplotlib, Seaborn), Machine Learning, Presentation, Communication, Storytelling, and Leadership</p>
 
 **Connect with me on [LinkedIn](https://www.linkedin.com/in/jayguptanetwork/)**
