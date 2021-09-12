@@ -53,6 +53,10 @@ Please click at the below banners to learn more about my data science projects.
 
 <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/powerbianalytics/readme.md" target="_blank">![](/image/PowerBIDashboard_Access.jpg)</a>
 
+<span style="font-size=30; color:blue"> **Seventh Project:** </span>
+
+<a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/telcobizchurnanalysis/readme.md" target="_blank">![](/image/telecom_customer_churn_access.jpg)</a>
+
 ## 3. Energy, Environment and Industrial Projects Portfolio
 
 <span style="font-size=30; color:blue"> **First Project:** </span>
