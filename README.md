@@ -2,7 +2,7 @@
 
 ## Welcome to Jay Gupta's Data Science Projects Portfolio
 
-<p>Data Scientist focused on solving problems with the help of machine learning and artificial intelligence in the field of Banking, Investments, Financial, and E-commerce domains. 20+ years’ experience in implementing project management office (PMO) processes, procedures, governance, project execution, and methodologies in various companies, and implementing world’s first global execution of engineering & design projects. Extensive experience in multi-disciplinary teams as well as Start-up small team environment, in the project management leadership roles in the Oil & Gas, Energy, and Environmental sectors.</p>
+<p>Project, Portfolio & Business Management professional focused on solving problems with the help of machine learning and artificial intelligence in the field of Banking, Investments, Financial, and E-commerce domains.</p>
 
 Please click at the below banners to learn more about my data science projects.
 
