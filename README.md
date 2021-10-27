@@ -2,7 +2,7 @@
 
 ## Welcome to Jay Gupta's Data Science Projects Portfolio
 
-<p>Project, Portfolio & Business Management professional focused on solving problems with the help of machine learning and artificial intelligence in the field of Banking, Investments, Financial, and E-commerce domains.</p>
+<p>Project, Portfolio & Business Management professional focused on solving problems with the help of machine learning and artificial intelligence in the field of Oil & Gas, Environmental, Energy, Banking, Investments, Financial, and E-commerce domains.</p>
 
 Please click at the below banners to learn more about my data science projects.
 
